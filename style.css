@@ -221,11 +221,11 @@ body {
     transition: all 0.1s ease;
 }
 .discord-button {
-    background: linear-gradient(135deg, #7289da 0%, #5b6eae 100%);
-    color: white;
+    background: linear-gradient(135deg, #ffffff 0%, #f0f0f0 100%);
+    color: black;
 }
 .discord-button:hover {
-    background: linear-gradient(135deg, #8fa4f3 0%, #7289da 100%);
+    background: linear-gradient(135deg, #ffffff 0%, #f0f0f0 100%);
 }
 .features {
     display: grid;
